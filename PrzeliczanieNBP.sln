@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrzeliczanieNBP", "PrzeliczanieNBP\PrzeliczanieNBP.csproj", "{D24A1933-44A9-4D71-9164-7110187B41E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24A1933-44A9-4D71-9164-7110187B41E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24A1933-44A9-4D71-9164-7110187B41E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24A1933-44A9-4D71-9164-7110187B41E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24A1933-44A9-4D71-9164-7110187B41E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF6D1B7-A68E-40FB-B9AD-06C015DE5BA3}
+	EndGlobalSection
+EndGlobal
