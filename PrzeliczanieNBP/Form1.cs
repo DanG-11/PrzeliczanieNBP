@@ -89,5 +89,10 @@ namespace PrzeliczanieNBP
                 NumBoxWalutaDoKalk.Value = NumBoxWalutaPoKalk.Value * WartoœæWalutyDoPLN["Bat"];
             }
         }
+
+        private void FormPrzelicznikWalut_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

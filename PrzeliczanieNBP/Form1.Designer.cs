@@ -176,6 +176,7 @@
             Controls.Add(LblWalutaDoKalk);
             Name = "FormPrzelicznikWalut";
             Text = "PrzelicznikWalut";
+            Load += FormPrzelicznikWalut_Load;
             GrpBoxToWaluta.ResumeLayout(false);
             GrpBoxToWaluta.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)NumBoxWalutaDoKalk).EndInit();
