@@ -53,21 +53,29 @@ namespace PrzeliczanieNBP
         private void RadBtnToUSD_CheckedChanged(object sender, EventArgs e)
         {
             LblWalutaPoKalk.Text = "Dolar";
+            NumBoxWalutaDoKalk.Value = 0;
+            NumBoxWalutaPoKalk.Value = 0;
         }
 
         private void RadBtnToEUR_CheckedChanged(object sender, EventArgs e)
         {
             LblWalutaPoKalk.Text = "Euro";
+            NumBoxWalutaDoKalk.Value = 0;
+            NumBoxWalutaPoKalk.Value = 0;
         }
 
         private void RadBtnToRUB_CheckedChanged(object sender, EventArgs e)
         {
             LblWalutaPoKalk.Text = "Rubel";
+            NumBoxWalutaDoKalk.Value = 0;
+            NumBoxWalutaPoKalk.Value = 0;
         }
 
         private void RadBtnToBAT_CheckedChanged(object sender, EventArgs e)
         {
             LblWalutaPoKalk.Text = "Bat";
+            NumBoxWalutaDoKalk.Value = 0;
+            NumBoxWalutaPoKalk.Value = 0;
         }
 
         private void BtnKalkulujDoPLN_Click(object sender, EventArgs e)
